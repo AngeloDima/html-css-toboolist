@@ -26,10 +26,97 @@ header h1{
 .content{
     width: 1320px;
     height: 700px;
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.13);
     margin: auto;
     margin-top: 100px;
 }
 
 
 /* -------------------------main end-------------------- */
+
+#Primo-button{
+    padding: 10px;
+    background-color: #45abea;
+}
+
+
+#Secondo-button{
+    padding: 10px;
+    color: #d3d8dc;
+    border: 1px solid #d3d8dc;
+}
+
+.bordi-primi-due{
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+
+    font-weight: 700;
+    font-family: Arial;
+    color: white;
+}
+
+
+.content h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+
+.content h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+
+.Spunta{
+    border: 2px solid #9dd9cd;
+    border-radius: 100%;
+    color: #9dd9cd;
+}
+
+.Spunta-x{
+    border: 2px solid #ef726a;
+    border-radius: 100%;
+    color: #ef726a;
+}
+
+.Button-celeste-R{
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    background-color: #45abea;
+    border: none;
+    margin-left: 5px;
+    color: white;
+}
+
+.Button-Viola-R{
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    background-color: #9c72e4;
+    border: none;
+    margin-left: 5px;
+    color: white;
+}
+
+.Button-Verde-R{
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    background-color: #64c0a9;
+    border: none;
+    margin-left: 5px;
+    color: white;
+}
+
+.Button-Arancio-R{
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    background-color: #f29e33;
+    border: none;
+    margin-left: 5px;
+    color: white;
+}

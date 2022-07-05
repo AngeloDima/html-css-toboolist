@@ -85,6 +85,9 @@ header h1{
     color: #ef726a;
 }
 
+
+
+
 .Button-celeste-R{
     padding: 10px 20px 10px;
     border-radius: 20px;
@@ -116,6 +119,24 @@ header h1{
     padding: 10px 20px 10px;
     border-radius: 20px;
     background-color: #f29e33;
+    border: none;
+    margin-left: 5px;
+    color: white;
+}
+
+.Button-RosaAC-R{
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    background-color: #d863a1;
+    border: none;
+    margin-left: 5px;
+    color: white;
+}
+
+.Button-verdeV-R{
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    background-color: #b0c926;
     border: none;
     margin-left: 5px;
     color: white;
